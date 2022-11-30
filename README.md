@@ -2,6 +2,11 @@ ipq6000系列固件分享:
 
 固件下载请去telegram频道，https://t.me/ipq6000_romshare
 
+修改项
+[X] VPN,SS PLUS
+
+
+
 0819更新日志：  
 1.ssr-plus更新到最新版。  
 2.添加了自动重启app，定时重启能提高使用体验，  
