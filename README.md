@@ -1,10 +1,7 @@
-ipq6000系列固件分享:  
 
-固件下载请去telegram频道，https://t.me/ipq6000_romshare
 
 修改项
 [X] VPN,SS PLUS
-
 
 
 0819更新日志：  
